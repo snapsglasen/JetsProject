@@ -1,2 +1,5 @@
-passenger,Boeing 373,20,100,120000
-cargo,C130,300,10000,35
+passenger,Boeing 737,20000,5,120000
+cargo,C-130,3000,10000,1,30000
+fighter,Mitsubishi Zero,1000,2,50000
+fighter,Messerschmidt ME262,2000,3,60000
+cargo,SkyLiner,50000,7,100000
